@@ -1,4 +1,3 @@
-//Quynh Nguyen//
 //The WaterUtility Class preresent water utility//
 class WaterUtility extends Utility{
   
