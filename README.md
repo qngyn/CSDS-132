@@ -1,2 +1,2 @@
 # CSDS-132
-Introduction to Programming in Java
+CWRU's Introduction to Programming in Java
